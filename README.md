@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anwesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding girl " width="400" scr="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47woxajxv2suh32ynqotxgg71z93fw209ixsu9ouxv&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviwesha272&label=Profile%20views&color=0e75b6&style=flat" alt="aviwesha272" /> </p>
 
