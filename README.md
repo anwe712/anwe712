@@ -1,5 +1,9 @@
+![logo](https://github.com/aviwesha272/aviwesha272/blob/main/github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Anwesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+
+<img align="right" alt="coding girl " width="400" scr="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviwesha272&label=Profile%20views&color=0e75b6&style=flat" alt="aviwesha272" /> </p>
