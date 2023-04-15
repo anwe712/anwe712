@@ -1,4 +1,4 @@
-![logo](https://github.com/aviwesha272/aviwesha272/blob/main/github%20banner1.gif)
+![logo](https://github.com/aviwesha272/aviwesha272/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Anwesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
