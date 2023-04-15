@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/aviwesha272/aviwesha272/blob/main/banner.gif" width="961px" height="200px" alt="header">
 <h1 align="center">Hi 👋, I'm Anwesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding girl " width="500px" scr="https://github.com/aviwesha272/aviwesha272/blob/main/animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviwesha272&label=Profile%20views&color=0e75b6&style=flat" alt="aviwesha272" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviwesha272" alt="aviwesha272" /></a> </p>
