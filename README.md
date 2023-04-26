@@ -21,6 +21,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aviwesha272&show_icons=true&locale=en&layout=compact" alt="aviwesha272" /></p>
 <br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviwesha272&show_icons=true&locale=en" alt="aviwesha272" /></p>
+
 <br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviwesha272&" alt="aviwesha272" /></p>
