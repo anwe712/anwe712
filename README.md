@@ -1,4 +1,4 @@
-
+<img src="https://github.com/anwe712/anwe712/blob/main/Hi!%20i%20am%20anwesha.gif" alt="banner" >
 <h1 align="center">Hi 👋, I'm Anwesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
