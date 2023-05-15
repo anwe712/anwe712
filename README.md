@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ghoshanwesha852@gmail.com**
 
-<p><img align="right" src="Untitled design.gif" alt="anwe712"  width="40%" /> </p>
+<p><img align="right" src="r.png" alt="anwe712"  width="60%" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
