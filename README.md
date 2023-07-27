@@ -58,7 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anwe712/anwe712/output/snake.svg" alt="Snake animation" />
 
 ###
 
