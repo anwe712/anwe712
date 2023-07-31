@@ -36,6 +36,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anwe712&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
+# 🏆 Tropies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwe712&theme=dracula&row=1&column=7"" alt="rajbhattacharyya" /></a> </p> <br/>
+
 
 
 
