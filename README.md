@@ -7,6 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=anwe712" alt="anwe712" /></a> </p> -->
 
+<img align="right" height="250" alt="𝙶𝙸𝙵" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
 - 🌱 I’m currently learning **Javascript and ReactJS**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
