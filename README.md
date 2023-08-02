@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anwesha</h1>
+<h1 align="center">Hi 👋, I'm GhostScripter</h1>
 <h3 align="center">A Tech Enthusiast in making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwe712&label=Profile%20views&color=0e75b6&style=flat" alt="anwe712" /> </p>
