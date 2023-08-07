@@ -14,6 +14,7 @@
 -  I’m currently pursuing Computer Science Engineering from **University of Engineering and Management , Kolkata**
 
 -  I’m currently learning **Javascript and ReactJS**
+-  I'm trying to code using **Java , Python and C**
 
 -  I regularly write articles on [https://medium.com/@ghoshanwesha272](https://medium.com/@ghoshanwesha272)
 
