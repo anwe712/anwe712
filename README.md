@@ -1,6 +1,6 @@
 <img align="center" alt="𝙶𝙸𝙵" src="https://github.com/anwe712/anwe712/blob/main/covergif.gif" > 
 
-<h3 align="center">A Selenophile Tech Enthusiast in making</h3>
+<h3 align="center" style="font-family: 'monospace'"; >A Selenophile Tech Enthusiast in making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwe712&label=Profile%20views&color=0e75b6&style=flat" alt="anwe712" /> </p>
 
