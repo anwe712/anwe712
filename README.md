@@ -11,17 +11,17 @@
 <img align="right" height="250" alt="𝙶𝙸𝙵" src="https://github.com/anwe712/anwe712/blob/main/sidepng.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-- 🌱 I’m currently pursuing Computer Science Engineering from **University of Engineering and Management , Kolkata**
+-  I’m currently pursuing Computer Science Engineering from **University of Engineering and Management , Kolkata**
 
-- 🌱 I’m currently learning **Javascript and ReactJS**
+-  I’m currently learning **Javascript and ReactJS**
 
-- 🤝 I’m looking for help with **Javascript , ReactJS and backend too**
+-  I’m looking for help with **Javascript , ReactJS and backend too**
 
-- 📝 I regularly write articles on [https://medium.com/@ghoshanwesha272](https://medium.com/@ghoshanwesha272)
+-  I regularly write articles on [https://medium.com/@ghoshanwesha272](https://medium.com/@ghoshanwesha272)
 
-- 💬 Ask me about **Procrastination and its solution**
+-  Ask me about **Procrastination and its solution**
 
-- 📫 How to reach me **ghoshanwesha852@gmail.com**
+-  How to reach me **ghoshanwesha852@gmail.com**
 
 
 
