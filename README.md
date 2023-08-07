@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A Tech Enthusiast in making</h3>
+<img align="center" height="250" alt="𝙶𝙸𝙵" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
+
+<h3 align="center">A Selenophile Tech Enthusiast in making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwe712&label=Profile%20views&color=0e75b6&style=flat" alt="anwe712" /> </p>
 
@@ -10,15 +11,15 @@
 <img align="right" height="250" alt="𝙶𝙸𝙵" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-- 🌱 I’m currently learning **Javascript and ReactJS**
+- 🌱 I’m currently pursuing Computer Science Engineering from **University of Engineering and Management , Kolkata**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 🌱 I’m currently learning **Javascript and ReactJS**
 
 - 🤝 I’m looking for help with **Javascript , ReactJS and backend too**
 
 - 📝 I regularly write articles on [https://medium.com/@ghoshanwesha272](https://medium.com/@ghoshanwesha272)
 
-- 💬 Ask me about **basics of frontend development**
+- 💬 Ask me about **Procrastination and its solution**
 
 - 📫 How to reach me **ghoshanwesha852@gmail.com**
 
