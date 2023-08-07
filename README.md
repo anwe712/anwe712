@@ -1,4 +1,4 @@
-<img align="center" alt="𝙶𝙸𝙵" src="https://github.com/anwe712/anwe712/blob/main/covergif.gif" > 
+<img align="center" alt="𝙶𝙸𝙵" src="https://github.com/anwe712/anwe712/blob/main/gif.gif" > 
 
 <h3 align="center" style="font-family: 'monospace'"; >A Selenophile Tech Enthusiast in making</h3>
 
