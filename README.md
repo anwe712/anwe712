@@ -14,16 +14,8 @@
 -  I’m currently pursuing Computer Science Engineering from **University of Engineering and Management , Kolkata**
 
 -  I’m currently learning **Javascript and ReactJS**
-
--  I’m looking for help with **Javascript , ReactJS and backend too**
-
+-  
 -  I regularly write articles on [https://medium.com/@ghoshanwesha272](https://medium.com/@ghoshanwesha272)
-
--  Ask me about **Procrastination and its solution**
-
--  How to reach me **ghoshanwesha852@gmail.com**
-
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anweshaghosh3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anweshaghosh272) 
