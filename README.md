@@ -1,4 +1,4 @@
-<img align="center" height="250" alt="𝙶𝙸𝙵" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
+<img align="center" alt="𝙶𝙸𝙵" src="https://github.com/anwe712/anwe712/blob/main/covergif.gif" > 
 
 <h3 align="center">A Selenophile Tech Enthusiast in making</h3>
 
