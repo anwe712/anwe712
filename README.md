@@ -15,6 +15,7 @@
 
 -  I’m currently learning **Javascript and ReactJS**
 -  I'm trying to code using **Java , Python and C**
+-  Currently using Arch Linux 🐧
 
 -  I regularly write articles on [https://medium.com/@ghoshanwesha272](https://medium.com/@ghoshanwesha272)
 
