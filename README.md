@@ -33,20 +33,6 @@
 # 🏆 Tropies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwe712&theme=dracula&row=1&column=7"" /></a> </p> <br/>
 
-## My Latest Blog Posts
-
-1. [Title of Blog Post 1](URL_of_Blog_Post_1)
-   Description of the blog post content.
-
-2. [Title of Blog Post 2](URL_of_Blog_Post_2)
-   Description of the blog post content.
-
-3. [Title of Blog Post 3](URL_of_Blog_Post_3)
-   Description of the blog post content.
-
-
-
-
 ###
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
