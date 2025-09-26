@@ -13,10 +13,6 @@
 
 -  I’m currently pursuing Computer Science Engineering from **University of Engineering and Management , Kolkata**
 
--  I’m currently learning **Javascript and ReactJS**
--  I'm trying to code using **Java , Python and C**
-
--  I regularly write articles on [https://medium.com/@ghoshanwesha272](https://medium.com/@daydreamer_anwe)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anweshaghosh3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anweshaghosh272) 
