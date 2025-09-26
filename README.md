@@ -17,7 +17,9 @@
   
 - ⚡ while(alive) { code(); learn(); build(); }
   
-- 🚀 Dreaming in algorithms, debugging in reality  
+- 🚀 Dreaming in algorithms, debugging in reality
+
+- 🧩 learning logic 
 
 
 
