@@ -11,7 +11,10 @@
 <img align="right" height="250" alt="𝙶𝙸𝙵" src="https://github.com/anwe712/anwe712/blob/main/sidepng.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
--  I’m currently pursuing Computer Science Engineering from **University of Engineering and Management , Kolkata**
+-  Pursuing CSE(AI & ML) from **University of Engineering and Management , Kolkata**
+-  C++
+-  while(alive) { code(); }
+
 
 
 ## 🌐 Socials:
